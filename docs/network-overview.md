@@ -20,6 +20,8 @@ All traffic is routed through the UDM-SE, which performs:
 
 Wireless and wired networks are logically segmented using VLANs and mapped consistently across switch ports and Wi-Fi SSIDs.
 
+Refer to /diagrams/logical-network-architecture.png for a visual representation of VLAN segmentation, firewall enforcement, and traffic flow.
+
 ## Network Zones
 | Zone     | Purpose                                   | Access Level |
 |----------|-------------------------------------------|--------------|
